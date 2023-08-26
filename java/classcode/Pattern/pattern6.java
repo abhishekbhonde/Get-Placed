@@ -8,7 +8,7 @@ class pattern6{
 					System.out.print(num++ + " ");
 				}
 				else{
-					System.out.print(ch++ + " ");
+					System.out.print(ch++ + "  ");
 				}
 			
 			}
