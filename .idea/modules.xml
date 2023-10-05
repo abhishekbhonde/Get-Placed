@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Get-Placed.iml" filepath="$PROJECT_DIR$/Get-Placed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/classcode/I/I.iml" filepath="$PROJECT_DIR$/java/classcode/I/I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Practical/Practical.iml" filepath="$PROJECT_DIR$/java/Practical/Practical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/classcode/classcode.iml" filepath="$PROJECT_DIR$/java/classcode/classcode.iml" />
+    </modules>
+  </component>
+</project>
